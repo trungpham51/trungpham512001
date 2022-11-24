@@ -1,0 +1,87 @@
+@media screen and (max-width: 767px) {
+  h4 {
+    margin: 0px;
+  }
+
+  .nav_container {
+    display: block;
+    text-align: start;
+  }
+
+  .grid-2 {
+    display: block;
+  }
+
+  .grid-6 {
+    display: block;
+  }
+
+  .job_info-card {
+    margin-bottom: 1em;
+  }
+
+  .certificate_content {
+    display: block;
+    padding: 10px;
+  }
+
+  .certificate_container {
+    display: block;
+    padding: 20px 0px;
+  }
+
+  .certificate_container h4 {
+    font-size: 1em;
+  }
+
+  .certificate_container p {
+    margin-bottom: 0px;
+  }
+
+  .certificate_description {
+    margin-top: 1em;
+    text-align: center;
+  }
+
+  .certificate_title {
+    text-align: center;
+  }
+
+  .certificate_image {
+    text-align: center;
+  }
+
+  .border-left_orange {
+    display: none;
+  }
+
+  .container-1 {
+    padding: 10px 60px;
+  }
+
+  .project_card {
+    margin-bottom: 1em;
+  }
+
+  .project_card-container {
+    display: block;
+  }
+
+  .project_card-content_item {
+    flex-direction: column;
+    align-items: baseline;
+  }
+
+  .project_card-company {
+    display: block;
+    margin-left: -0.5em;
+  }
+
+  .project_card-1 {
+    height: 55px;
+  }
+
+  .project_card-2 {
+    height: 86px;
+  }
+}

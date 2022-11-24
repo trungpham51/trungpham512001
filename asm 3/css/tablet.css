@@ -1,0 +1,45 @@
+@media screen and (max-width: 1023px) {
+  ul {
+    padding-left: 0px;
+  }
+
+  #nav-bar .nav_name {
+    display: none;
+  }
+
+  .about_target {
+    padding-left: 10%;
+  }
+
+  .about_title {
+    font-size: 30px;
+  }
+
+  .about_personal-info ul {
+    padding-left: 0px;
+  }
+
+  .grid-6 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px 0px;
+  }
+
+  .container-1 {
+    margin: 0px -50px;
+  }
+
+  .project_card th {
+    font-size: 14px;
+  }
+
+  .project_card-class {
+    align-items: baseline;
+  }
+
+  .project_card-company {
+    display: block;
+  }
+}
